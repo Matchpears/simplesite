@@ -57,6 +57,7 @@ body {
 }
 /* rtl:end:ignore */
 
+/* Image tilt animation */
 .fauxCrop{
 	overflow:hidden;
 	border: 10px solid black;
